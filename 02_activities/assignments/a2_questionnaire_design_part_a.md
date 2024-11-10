@@ -16,30 +16,69 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+Understand the reasons for high employee turnover and identify changes needed to improve employee satisfaction, gather employee suggestions for enhancing satisfaction, and ultimately guide the company in making changes to reduce turnover among entry- and lower-level positions.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: All entry-level and lower-level employees who have joined the company within the past six months.
+
+Sampling Frame: The employee database maintained by the company's HR department, containing information on all current entry-level and lower-level employees.
+
+Sampling Units: Each entry-level and lower-level employee.
+
+Observational Units: Each entry-level and lower-level employee's responses to the questions in the survey.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How satisfied are you with your work at the company?
+     - Very satisfied
+     - Satisfied
+     - Neutral
+     - Unsatisfied
+     - Very unsatisfied
+
+2. Do you think your current workload is reasonable?
+     - Very reasonable
+     - Reasonable
+     - Neutral
+     - Too heavy
+     - Very heavy
+
+3. Do you feel there are clear career development opportunities?
+     - Very much so
+     - Somewhat
+     - Neutral
+     - Not much
+     - Not at all
+
+4. Are you satisfied with your current compensation and benefits?
+     - Very satisfied
+     - Satisfied
+     - Neutral
+     - Unsatisfied
+     - Very unsatisfied
+
+5. Are you satisfied with your work environment and team?
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      - Very unsatisfied
+
+6. How would you rate your work-life balance?
+     - Very balanced
+     - Balanced
+     - Neutral
+     - Unbalanced
+     - Very unbalanced
+
+7. Do you have any suggestions for the company? or which aspect of supprt do you want to get from the company/managerment?
 ```
 
 ## Rubric
