@@ -4,19 +4,22 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+I think my sample can represent the target population, because the description of the target population in the assignment-2 is: "Over the past few months, the company has been experiencing a high turnover rate across many of its departments, specifically within the entry- and lower-level positions". And my sample is set to employees who joined within 6 months, covering "few months"; and it is also specifically specified that it is entry- and lower-level employees; and the sample frame is set in the employee information system of the HR department; so I think it is representative.
+
+The only possible problem I can think of is that if the data of the HR department is not updated in time, for example, some documents are paper-based, and the HR specialist may not have time to register them in the computer system; or even if a representative sample is sampled, not all employees are willing to participate in the questionnaire, which will cause deviations. Then the solution is to update the system in time and encourage employees to participate in the questionnaire.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+Yes, there are some places that I would like to make some changes based on the quality of the questionnaire.
+One of the questions I designed is: "Are you satisfied with your work environment and team?"I would like to change it to: "How satisfied are you with the communication and support from your team and management?" Because I think the original question is not specific enough, the revised version can more accurately collect employees' views on team and management support.
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+I think part of it can be achieved, but it is difficult to understand the real thoughts of the employees, and it is impossible to get some useful suggestions and feedback. I think the achievable part is that observational research can be conducted through turnover rate, performance evaluation, employee absence records, etc., which can indirectly reflect employee satisfaction and resignation trends. However, there are more parts that cannot be achieved, because the work experience and feedback of employees can only be raised by them on their own initiative.
     ```
 
 ## Why am I doing this assignment?
